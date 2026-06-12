@@ -98,75 +98,85 @@ Output : 8 (4 * 2)
 35.Write a program which returns difference between Even factorial and odd factorial
 of given number.
 
-36.
+36.Write a program which accept radius of circle from user and calculate its area.
+Consider value of PI as 3.14. (Area = PI * Radius * Radius)
 
-37.
+37.Write a program which accept width & height of rectangle from user and calculate
+its area. (Area = Width * Height)
 
-38.
+38.program which accept distance in kilometre and convert it into meter. (1
+kilometre = 1000 Meter)
 
-39.
+39.program which accept temperature in Fahrenheit and convert it into
+celsius. (1 celsius = (Fahrenheit -32) * (5/9))
 
-40.
+40.program which accept area in square feet and convert it into square
+meter. (1 square feet = 0.0929 Square meter)
 
-41
+41.program which accept number from user and return the count of even
+digits.
 
-42
+42.program which accept number from user and return the count of odd
+digits.
 
-43
+43.program which accept number from user and return the count of digits in
+between 3 and 7.
 
-44
+44.program which accept number from user and return multiplication of all
+digits.
 
-45
+45.program which accept number from user and return difference between
+summation of even digits and summation of odd digits.
 
-46
+46.
 
-47
+47.
 
-48
+48.
 
-49
+49.
 
-50
+50.
 
-51
+51.
 
-52
+52.
 
-53
+53.
 
-54
+54.
 
-55
+55.
 
-56
+56.
 
-57
+57.
 
-58
+58.
 
-59
+59.
 
-60
+60.
 
-61
+61.
 
-62
+62.
 
-63
+63.
 
-64
+64.
 
-65
+65.
 
-66
+66.
 
-67
+67.
 
-68
+68.
 
-69
+69.
 
-70
+70.
 
 71
 
