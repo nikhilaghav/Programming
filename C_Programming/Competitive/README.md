@@ -128,56 +128,86 @@ digits.
 45.program which accept number from user and return difference between
 summation of even digits and summation of odd digits.
 
-46.
+46.program which accept range from user and display all numbers in between
+that range.
 
-47.
+47.program which accept range from user and display all even numbers in
+between that range.
 
-48.
+48.program which accept range from user and return addition of all numbers
+in between that range. (Range should contains positive numbers only)
 
-49.
+49.program which accept range from user and return addition of all even
+numbers in between that range. (Range should contains positive numbers only)
 
-50.
+50.program which accept accept range from user and display all numbers in
+between that range in reverse order.
 
-51.
+51.program which accept number from user and display its digits in reverse
+order.
 
-52.
+52.program which accept number from user and check whether it contains 0
+in it or not.
 
-53.
+53.program which accept number from user and count frequency of 2 in it.
 
-54.
+54.program which accept number from user and count frequency of 4 in it.
 
-55.
+55.program which accept number from user and count frequency of such a
+digits which are less than 6.
 
-56.
+56.Accept N numbers from user and return difference between summation
+of even elements and summation of odd elements.
 
-57.
+57.Accept N numbers from user and display all such elements which are
+divisible by 5.
 
-58.
+58.Accept N numbers from user and display all such elements which are
+even and divisible by 5.
 
-59.
+59.Accept N numbers from user and display all such elements which are
+divisible by 3 and 5.
 
-60.
+60.Accept N numbers from user and display all such elements which are
+multiples of 11.
 
-61.
+61.Accept N numbers from user and return frequency of even numbers.
 
-62.
+62.Accept N numbers from user and return difference between frequency of
+even number and odd numbers.
 
-63.
+63.Accept N numbers from user check whether that numbers contains 11 in
+it or not.
 
-64.
+64.Accept N numbers from user and return frequency of 11 form it.
 
-65.
+65.Accept N numbers from user and accept one another number as NO ,
+return frequency of NO form it.
 
-66.
+66.Accept N numbers from user and accept one another number as NO ,
+check whether NO is present or not.
 
-67.
+67.Accept N numbers from user and accept one another number as NO ,
+return index of first occurrence of that NO.
 
-68.
+68.Accept N numbers from user and accept one another number as NO ,
+return index of last occurrence of that NO.
 
-69.
+69.Accept N numbers from user and accept Range, Display all elements from
+that range
 
-70.
+70.Accept N numbers from user and return product of all odd elements.
 
-71
+71.Accept N numbers from user and return the largest number.
 
-72
+72.Accept N numbers from user and return the smallest number.
+
+73.Accept N numbers from user and return the difference between largest
+and smallest number.
+
+74.Accept N numbers from user and display all such numbers which contains
+3 digits in it.
+
+75.Accept N numbers from user and display summation of digits of each
+number.
+
