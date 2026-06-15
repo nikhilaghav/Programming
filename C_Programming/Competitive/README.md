@@ -327,7 +327,8 @@ Output : A A A A A
 pattern.
 Input : iRow = 4 iCol = 5
 
-Output : 4 4 4 4 4
+Output : 
+         4 4 4 4 4
 
          3 3 3 3 3
          
@@ -339,7 +340,8 @@ Output : 4 4 4 4 4
 pattern.
 Input : iRow = 3 iCol = 4
 
-Output : 1 2 3 4
+Output : 
+         1 2 3 4
 
          5 6 7 8
          
