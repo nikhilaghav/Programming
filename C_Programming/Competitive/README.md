@@ -211,3 +211,98 @@ and smallest number.
 75.Accept N numbers from user and display summation of digits of each
 number.
 
+76.Accept number from user and display below pattern.
+Input : 5
+Output : A B C D E
+
+77.Accept number from user and display below pattern.
+Input : 5
+Output : 5 # 4 # 3 # 2 # 1 #
+
+78.Accept number from user and display below pattern.
+Input : 5
+Output : 1 * 2 * 3 * 4 * 5 *
+
+79.Accept number from user and display below pattern.
+Input : 4
+Output : # 1 * # 2 * # 3 * # 4 *
+
+80.Accept number from user and display below pattern.
+Input : 8
+Output : 2 4 6 8 10 12 14 16
+
+81.Accept number of rows and number of columns from user and display
+below pattern.
+Input : iRow = 4 iCol = 3
+Output : * * *
+         * * *
+         * * *
+         * * *
+
+82.Accept number of rows and number of columns from user and display
+below pattern.
+Input : iRow = 4 iCol = 3
+Output : 1 2 3
+         1 2 3
+         1 2 3
+         1 2 3
+
+83.Accept number of rows and number of columns from user and display
+below pattern.
+Input : iRow = 3 iCol = 5
+Output : 5 4 3 2 1
+         5 4 3 2 1
+         5 4 3 2 1
+
+84.Accept number of rows and number of columns from user and display
+below pattern.
+Input : iRow = 3 iCol = 4
+Output : * # * #
+         * # * #
+         * # * #
+
+85.Accept number of rows and number of columns from user and display
+below pattern.
+Input : iRow = 3 iCol = 4
+Output : 1 1 1 1
+         2 2 2 2
+         3 3 3 3
+         4 4 4 4
+
+86.Accept number of rows and number of columns from user and display below
+pattern.
+Input : iRow = 4 iCol = 4
+Output : A B C D
+         A B C D
+         A B C D
+         A B C D
+
+87.Accept number of rows and number of columns from user and display below
+pattern.
+Input : iRow = 4 iCol = 4
+Output : A B C D
+         a b c d
+         A B C D
+         a b c d
+
+88.Accept number of rows and number of columns from user and display below
+pattern.
+Input : iRow = 3 iCol = 5
+Output : A A A A A
+         B B B B B
+         C C C C C
+
+89.Accept number of rows and number of columns from user and display below
+pattern.
+Input : iRow = 4 iCol = 5
+Output : 4 4 4 4 4
+         3 3 3 3 3
+         2 2 2 2 2
+         1 1 1 1 1
+
+90.Accept number of rows and number of columns from user and display below
+pattern.
+Input : iRow = 3 iCol = 4
+Output : 1 2 3 4
+         5 6 7 8
+         9 10 11 12
