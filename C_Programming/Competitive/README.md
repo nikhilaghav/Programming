@@ -346,3 +346,221 @@ Output :
          5 6 7 8
          
          9 10 11 12
+
+91.Accept number of rows and number of columns from user and display
+
+below pattern.
+
+Input : iRow = 4 iCol = 4
+
+Output : 1 2 3 4
+
+         5 6 7 8
+         
+         9 1 2 3
+         
+         4 5 6 7         
+
+92.Accept number of rows and number of columns from user and display
+below pattern.
+Input : iRow = 4 iCol = 4
+
+Output : 2 4 6 8 10
+
+         1 3 5 7 9
+
+         2 4 6 8 10
+
+         1 3 5 7 9
+
+93.Accept number of rows and number of columns from user and display
+
+below pattern.
+
+Input : iRow = 5 iCol = 5
+
+Output : a b c d e
+  
+         1 2 3 4 5
+         
+         a b c d e
+        
+         1 2 3 4 5
+ 
+         a b c d e
+
+94.Accept number of rows and number of columns from user and display
+below pattern.
+Input : iRow = 5 iCol = 5
+
+ Output : 1 2 3 4 5
+
+         -1 -2 -3 -4 -5
+     
+          1 2 3 4 5
+         
+         -1 -2 -3 -4 -5
+          
+          1 2 3 4 5
+
+95.Accept number of rows and number of columns from user and display
+below patt ern.
+Input : iRow = 4 iCol = 4
+Output : 1 2 3 4
+       
+         2 3 4 5
+         
+         3 4 5 6
+         
+         4 5 6 7
+
+96.Accept number of rows and number of columns from user and display below
+pattern.
+Input : iRow = 4 iCol = 4
+
+Output : * # # #
+          
+        * * # #
+    
+        * * * #
+
+        * * * *
+
+97.Input : iRow = 4 iCol = 4
+Output : * * * *
+
+         * * * #
+
+        *  * # #
+
+        * # # #
+
+98.Input : iRow = 5 iCol = 5
+Output : $ * * * *
+
+         * $ * * *
+
+         * * $ * *
+         
+         * * * $ *
+
+         * * * * $
+
+99.Input : iRow = 6 iCol = 5
+Output : * * * * *
+   
+         * @ @ @ *
+        
+         * @ @ @ *
+    
+         * @ @ @ *
+
+         * @ @ @ *
+        
+         * * * * *
+
+100.Input : iRow = 4 iCol = 4
+Output : 1 2 3 4
+ 
+         1 * * 4
+   
+         1 * * 4
+
+         1 2 3 4
+
+101.Accept number of rows and number of columns from user and display below
+pattern.
+Input : iRow = 4 iCol = 4
+ 
+ Output : *
+ 
+         * *
+         
+         * * *
+         
+         * * * *
+
+
+102.Input : iRow = 4 iCol = 4
+Output : * * * *
+        
+         * * *
+        
+         * *
+      
+         *
+
+103.Output : $ * * * *
+
+             # $ * * *
+ 
+             # # $ * *
+
+             # # # $ *
+
+             # # # # $
+
+
+105.Output : 1 2 3 4
+               
+               2 3 4
+         
+                 3 4
+   
+                   4
+
+106.Accept number of rows and number of columns from user and display below
+pattern.
+Input : iRow = 4 iCol = 4
+Output : * * * #
+
+         * * # *
+
+         * # * *
+
+         # * * *
+
+107.* * * #
+
+    * * # @
+
+    * # @ @
+
+    # @ @ @
+
+108.* * * * * *
+    *       * *
+    *     *   *
+    *   *     *
+    * *       *
+    * * * * * *
+
+109.* * * * * *
+
+    * # # # * *
+
+    * # # * $ *
+
+    * # * $ $ *
+
+    * * $ $ $ *
+
+    * * * * * *
+
+110.1 2 3 4 5
+
+    1 2      5
+
+    1   3   5
+    
+    1     4 5
+
+    1 2 3 4 5
+
+
+
+
+
+
+
+
