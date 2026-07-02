@@ -572,92 +572,127 @@ Output : * * * #
    (0-9).
 
 114.Accept Character from user and check whether it is small case or
-not (a-z).
+
+   not (a-z).
 
 115.Accept division of student from user and depends on the division
-display exam timing. There are 4 divisions in school as A,B,C,D. Exam
-of division A at 7 AM, B at 8.30 AM, C at 9.20 AM and D at 10.30 AM.
-(Application should be case insensitive)
+
+   display exam timing. There are 4 divisions in school as A,B,C,D. Exam
+
+   of division A at 7 AM, B at 8.30 AM, C at 9.20 AM and D at 10.30 AM.
+
+  (Application should be case insensitive)
 
 116.Write a program which displays ASCII table. Table contains symbol,
-Decimal, Hexadecimal and Octal representation of every member from
-0 to 255.
+
+   Decimal, Hexadecimal and Octal representation of every member from
+
+  0 to 255.
 
 117.Accept character from user. If character is small display its
-corresponding capital character, and if it small then display its
-corresponding capital. In other cases display
+
+   corresponding capital character, and if it small then display its
+
+  corresponding capital. In other cases display
 
 118.Accept character from user. If it is capital then display all the
-characters from the input characters till Z. If input character is small
-then print all the characters in reverse order till a. In other cases
-return directly.
+
+  characters from the input characters till Z. If input character is small
+
+  then print all the characters in reverse order till a. In other cases
+
+  return directly.
 
 119.4. Accept Character from user and check whether it is special symbol
-or not (!, @, #, $, %, ^, &, *).
+
+  or not (!, @, #, $, %, ^, &, *).
 
 120.Accept character from user and display its ASCII value in decimal,
-octal and hexadecimal format.
 
-121.1.Write a program which accept string from user and count number of
-capital characters.
+  octal and hexadecimal format.
+
+121.Write a program which accept string from user and count number of
+
+   capital characters.
 
 122.Write a program which accept string from user and count number of
-small characters.
+
+  small characters.
 
 123.Write a program which accept string from user and return
+
 difference between frequency of small characters and frequency of
+
 capital characters.
 
 124.Write a program which accept string from user and check whether
+
 it contains vowels in it or not.
 
 125.Write a program which accept string from user and display it inn
+
 reverse order.
 
 126.1.Write a program which accept string from user and convert it into
+
 lower case.
 
 127.program which accept string from user and convert it into
+
 upper case.
 
 128.program which accept string from user and toggle the case.
 
 129.program which accept string from user and display only
+
 digits from that string.
 
 130.program which accept string from user and count number of
+
 white spaces
 
 131. program which accept string from user and accept one
+
 character. Check whether that character is present in string or not.
 
 132.program which accept string from user and accept one
+
 character. Return frequency of that character.
 
 133.program which accept string from user and accept one
+
 character. Return index of first occurrence of that character.
 
 134.program which accept string from user and accept one
+
 character. Return index of last occurrence of that character.
 
 135.a program which accept string from user reverse that string
+
 in place.
 
 136.program which accept string from user and copy the
+
 contents of that string into another string. (Implement strcpy()
+
 function)
 
 137.program which accept string from user and copy the
+
 contents of that string into another string. (Implement strncpy()
+
 function)
 
 138.a program which accept string from user and copy capital
+
 characters of that string into another string.
 
 139.program which accept string from user and copy small
+
 characters of that string into another string.
 
 140.program which 2 strings from user and concat second string
+
 after first string. (Implement strcat() function).
 
 Input : “Marvellous Infosystems”
