@@ -77,4 +77,133 @@ Condition Example:
 
 • < 50 → Fail
 
+26. lambda function which accepts one number and returns square of that number.
+
+27. lambda function which accepts one number and returns cube of that number.
+
+28.. Write a lambda function which accepts two numbers and returns maximum number.
+
+29. Write a lambda function which accepts two numbers and returns minimum number.
+
+30. Write a lambda function which accepts one number and returns True if number is even
+
+otherwise False.
+
+31. Write a lambda function which accepts one number and returns True if number is odd
+
+otherwise False.
+
+32. Write a lambda function which accepts one number and returns True if divisible by 5.
+
+33. Write a lambda function which accepts two numbers and returns addition.
+
+34.lambda function which accepts two numbers and returns multiplication.
+
+35. lambda function which accepts three numbers and returns largest number.
+
+36. Write a lambda function using map() which accepts a list of numbers and returns a list of squares of
+
+each number.
+
+37. Write a lambda function using filter() which accepts a list of numbers and returns a list of even
+
+numbers.
+
+38. Write a lambda function using filter() which accepts a list of numbers and returns a list of odd
+
+numbers.
+
+39. Write a lambda function using reduce() which accepts a list of numbers and returns the addition of
+
+all elements.
+
+40. Write a lambda function using reduce() which accepts a list of numbers and returns the maximum
+
+element.
+
+41. Write a lambda function using reduce() which accepts a list of numbers and returns the minimum
+
+element.
+
+42. Write a lambda function using filter() which accepts a list of strings and returns a list of strings
+
+having length greater than 5.
+
+43. Write a lambda function using filter() which accepts a list of numbers and returns a list of numbers
+
+divisible by both 3 and 5.
+
+44. Write a lambda function using reduce() which accepts a list of numbers and returns the product of all
+
+elements.
+
+45.Write a lambda function using filter() which accepts a list of numbers and returns the count of even
+
+numbers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
