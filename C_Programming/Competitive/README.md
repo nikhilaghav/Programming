@@ -701,18 +701,84 @@ Input : “Marvellous Infosystems”
 
 Output : “Marvellous Infosystems Logic Building”
 
+****************************************************************
+# PROGRAMS ON BITWISE OPERATORS
 
+141.program which checks whether 15th bit is On or OFF.
 
+142. program which checks whether 5th & 18th bit is On or OFF.
 
+143.program which checks whether 7th & 15th & 21st , 28th bit
+is On or OFF.
 
+144.program which checks whether 7th & 8th & 9th bit is On or
 
+OFF.
 
+145.program which checks whether first and last bit is On or
 
+OFF. First bit means bit number 1 and last bit means bit number 32.
 
+146.program which accept one number from user and off 7th bit of that
 
+number if it is on. Return modified number.
 
+147.program which accept one number from user and off 7th and 10th
 
+bit of that number. Return modified number.
 
+148.program which accept one number from user and toggle 7th bit of
 
+that number. Return modified number.
 
+149.program which accept one number from user and toggle 7th and
 
+10th bit of that number. Return modified number.
+
+150.program which accept one number from user and on its first 4
+
+bits. Return modified number.
+
+151.program which accept one number and position from user and
+
+check whether bit at that position is on or off. If bit is one return TURE
+
+otherwise return FALSE.
+
+152.a program which accept one number and position from user and off
+
+that bit. Return modified number.
+
+153. program which accept one number and position from user and on
+
+     that bit. Return modified number.
+
+154. program which accept one number and position from user and
+
+     toggle that bit. Return modified number.
+
+155. program which accept one number from user and toggle contents
+
+     of first and last nibble of the number. Return modified number. (Nibble is a
+
+     group of four bits)
+
+156. program which accept one number from user and count number of
+
+     ON (1) bits in it without using % and / operator.
+
+157. program which accept two numbers from user and display position
+
+     of common ON bits from that two numbers.
+
+158. program which accept one number from user and check whether
+
+     9th or 12th bit is on or off.
+
+159. program which accept one number , two positions from user and
+
+     check whether bit at first or bit at second position is ON or OFF.
+
+160. program which accept one number from user and range of
+
+     positions from user. Toggle all bits from that range.
