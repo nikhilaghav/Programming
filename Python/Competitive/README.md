@@ -316,6 +316,205 @@ Input Elements : 13 5 45 7 4 56 10 34 2 5 8
 
 Output : 54 (13 + 5 + 7 +2 + 5)
 
+***********************************************************************
+Lambda function, Filter,Map,Reduce
+
+71.Write a program which contains one lambda function which accepts one parameter and return
+
+power of two.
+
+72.Write a program which contains one lambda function which accepts two parameters and return
+
+its multiplication.
+
+73.program which contains filter(), map() and reduce() in it. Python application which
+
+contains one list of numbers. List contains the numbers which are accepted from user. Filter
+
+should filter out all such numbers which greater than or equal to 70 and less than or equal to
+
+90. Map function will increase each number by 10. Reduce will return product of all that
+
+numbers.
+
+
+74.program which contains filter(), map() and reduce() in it. Python application which
+
+contains one list of numbers. List contains the numbers which are accepted from user. Filter
+
+should filter out all such numbers which are even. Map function will calculate its square.
+
+Reduce will return addition of all that numbers.
+
+75.program which contains filter(), map() and reduce() in it. Python application which
+
+contains one list of numbers. List contains the numbers which are accepted from user. Filter
+
+should filter out all prime numbers. Map function will multiply each number by 2. Reduce will
+
+return Maximum number from that numbers. (You can also use normal functions instead of
+
+lambda functions).
+
+*********************************************************************************
+Multithreading>>>
+
+
+76. Design a Python application that creates two separate threads named Even and Odd.
+
+• The Even thread should display the first 10 even numbers.
+
+• The Odd thread should display the first 10 odd numbers.
+
+• Both threads should execute independently using the threading module.
+
+• Ensure proper thread creation and execution.
+
+77. Design a Python application that creates two threads named EvenFactor and
+    OddFactor.
+
+• Both threads should accept one integer number as a parameter.
+
+• The EvenFactor thread should:
+
+◦ Identify all even factors of the given number.
+
+◦ Calculate and display the sum of even factors.
+
+• The OddFactor thread should:
+
+◦ Identify all odd factors of the given number.
+
+◦ Calculate and display the sum of odd factors.
+
+• After both threads complete execution, the main thread should display the message:
+
+“Exit from main”
+
+78. Design a Python application that creates two threads named EvenList and OddList.
+
+• Both threads should accept a list of integers as input.
+
+• The EvenList thread should:
+
+◦ Extract all even elements from the list.
+
+◦ Calculate and display their sum.
+
+• The OddList thread should:
+
+◦ Extract all odd elements from the list.
+
+◦ Calculate and display their sum.
+
+• Threads should run concurrently.
+
+79. Design a Python application that creates three threads named Small, Capital, and
+
+Digits.
+
+• All threads should accept a string as input.
+
+• The Small thread should count and display the number of lowercase characters.
+
+• The Capital thread should count and display the number of uppercase characters.
+
+• The Digits thread should count and display the number of numeric digits.
+
+• Each thread must also display:
+
+◦ Thread ID
+
+◦ Thread Name
+
+80. Design a Python application that creates two threads named Thread1 and Thread2.
+
+• Thread1 should display numbers from 1 to 50.
+
+• Thread2 should display numbers from 50 to 1 in reverse order.
+
+• Ensure that:
+
+◦ Thread2 starts execution only after Thread1 has completed.
+
+• Use appropriate thread synchronizatio
+
+
+81. Design a Python application that creates two threads named Prime and NonPrime.
+
+• Both threads should accept a list of integers.
+
+• The Prime thread should display all prime numbers from the list.
+
+• The NonPrime thread should display all non-prime numbers from the list.
+
+82. Design a Python application that creates two threads.
+
+• Thread 1 should calculate and display the maximum element from an list.
+
+• Thread 2 should calculate and display the minimum element from the same list.
+
+• The list should be accepted from the user.
+
+83. Design a Python application where multiple threads update a shared variable.
+
+• Use a Lock to avoid race conditions.
+
+• Each thread should increment the shared counter multiple times.
+
+• Display the final value of the counter after all threads complete execution.
+
+84. Design a Python application that creates two threads.
+
+• Thread 1 should compute the sum of elements from a list.
+
+• Thread 2 should compute the product of elements from the same list.
+
+• Return the results to the main thread and display them.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
