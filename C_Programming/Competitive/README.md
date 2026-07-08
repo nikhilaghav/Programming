@@ -782,3 +782,73 @@ that bit. Return modified number.
 160. program which accept one number from user and range of
 
      positions from user. Toggle all bits from that range.
+
+    ************************************************************
+    
+    SINGLY LINEAR LINKED LIST
+     
+    Consider Singly Linear LinkedList to solve below problem statements
+    
+161. Search an Element
+    
+    Check whether a number is present.
+
+    bool Search(PNODE Head, int No);
+
+162. Count Even Numbers
+
+    Count nodes containing even values.
+
+    int CountEven(PNODE Head);
+
+163. Count Odd Numbers
+
+    Count nodes containing odd values.
+
+    int CountOdd(PNODE Head);
+   
+164. Count Frequency of Given Number
+
+   Count how many times a number appears.
+
+   int Frequency(PNODE Head, int No);
+
+165. Display Only Even Elements
+  
+   Print only even elements.
+
+   void DisplayEven(PNODE Head);
+
+ 166.  Display Only Odd Elements
+   
+      Print only odd elements.
+
+      void DisplayOdd(PNODE Head);
+
+167. First Occurrence Position
+
+    Return position of first occurrence.
+
+    int FirstOccur(PNODE Head, int No);
+
+168. Last Occurrence Position
+
+    Return position of last occurrence.
+
+    int LastOccur(PNODE Head, int No);
+
+169. Count Numbers Greater Than X
+
+    Count elements greater than given number.
+
+   int CountGreater(PNODE Head, int X);
+
+170. Count Numbers Less Than X
+
+    Count elements less than given number.
+
+   int CountLess(PNODE Head, int X);
+
+
+
+     
