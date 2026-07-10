@@ -472,10 +472,180 @@ Digits.
 
 • Return the results to the main thread and display them.
 
+ 85.     Write a program that accepts a list of integers and uses Pool.map()
+
+         to calculate the sum of squares from 1 to N for every element in the
+         
+         list.
+         
+         Example Input
+         
+         [1000000,2000000,3000000,4000000]
+         
+         Expected Output
+         
+         [333333833333500000,
+         
+         2666668666667000000,
+         
+         ...
+         
+         ]
+
+86.      Write a program that calculates factorials of multiple numbers
+
+         simultaneously using Pool.map().
+         
+         Input
+         
+         [10,15,20,25]
+         
+         Display
+         
+         • Process ID
+         
+         • Input Number
+         
+         • Factorial
+
+87. For every number in the given list, count how many prime numbers
+
+         exist between 1 and N using multiprocessing Pool.
+         
+         Example
+         
+         10000
+         
+         20000
+         
+         30000
+         
+         40000
+         
+         Display total prime count for each number.
+
+88. Write a program that calculates
+
+         1^5+2^5+3^5+.....+N^5
+         
+         for multiple values of N simultaneously using Pool.
+         
+         Input
+         
+         [1000000,
+         
+         2000000,
+         
+         3000000,
+         
+         4000000]
+         
+         Measure total execution time.
 
 
+89: Write a Python program using multiprocessing.Pool to calculate the
 
+         sum of all even numbers from 1 to N for every number from the given
+         
+         list.
+         
+         Input
+         
+         Data = [1000000, 2000000, 3000000, 4000000]
+         
+         Expected Task
+         
+         For each number N, calculate:
+         
+         2 + 4 + 6 + ... + N
+         
+         Expected Output Format
+         
+         Process ID : 1234
+         
+         Input Number : 1000000
+         
+         Sum of Even Numbers : 250000500000
 
+90: Write a Python program using multiprocessing.Pool to calculate the
+
+         sum of all odd numbers from 1 to N.
+         
+         Input
+         
+         Data = [1000000, 2000000, 3000000, 4000000]
+         
+         Expected Task
+         
+         For each number N, calculate:
+         
+         1 + 3 + 5 + ... + N
+         
+         Expected Output Format
+         
+         Process ID : 1235
+         
+         Input Number : 1000000
+         
+         Sum of Odd Numbers : 250000000000
+
+91: Write a program that counts how many even numbers exist
+
+         between 1 and N using Pool.map().
+         
+         Input
+         
+         Data = [1000000, 2000000, 3000000, 4000000]
+         
+         Expected Output Format
+         
+         Process ID : 1236
+         
+         Input Number : 1000000
+         
+         Even Number Count : 500000
+
+92: Write a program that counts how many odd numbers exist between
+
+         1 and N.
+         
+         Input
+         
+         Data = [1000000, 2000000, 3000000, 4000000]
+         
+         Expected Output Format
+         
+         Process ID : 1237
+         
+         Input Number : 1000000
+         
+         Odd Number Count : 500000
+
+93: Write a program that calculates factorials of multiple numbers
+
+         simultaneously using multiprocessing.Pool.
+         
+         Input
+         
+         Data = [10, 15, 20, 25]
+         
+         Expected Task
+         
+         For every N, calculate:
+         
+         N!
+         
+         Expected Output Format
+         
+         Process ID : 1240
+         
+         Input Number : 20
+         
+         Factorial : 2432902008176640000
+         
+         
+         
+         
 
 
 
