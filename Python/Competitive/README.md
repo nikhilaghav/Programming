@@ -808,21 +808,58 @@ Obj2.Gun()
 
 
 
+101. Count Lines in a File
+Problem Statement:
+Write a program which accepts a file name from the user and counts how many lines are present in the file.
+
+102.Count Words in a File
+Problem Statement:
+Write a program which accepts a file name from the user and counts the total number of words in that file.
+
+103. Display File Line by Line
+Problem Statement:
+Write a program which accepts a file name from the user and displays the contents of the file line by line on the
+screen.
+
+104.Copy File Contents into Another File
+Problem Statement:
+Write a program which accepts two file names from the user.
+• First file is an existing file
+• Second file is a new file
+Copy all contents from the first file into the second file.
+
+105.Search a Word in File
+Problem Statement:
+Write a program which accepts a file name and a word from the user and checks whether that word is present in
+the file or not.
+
+106.Check File Exists in Current Directory
+Problem Statement:
+Write a program which accepts a file name from the user and checks whether that file exists in the current
+directory or not.
+
+107.Display File Contents
+Problem Statement:
+Write a program which accepts a file name from the user, opens that file, and displays the entire contents on the
+console.
 
 
+108.Copy File Contents into a New File (Command Line)
+Problem Statement:
+Write a program which accepts an existing file name through command line arguments, creates a new file
+named Demo.txt, and copies all contents from the given file into Demo.txt.
 
+109.Compare Two Files (Command Line)
+Problem Statement:
+Write a program which accepts two file names through command line arguments and compares the contents of
+both files.
+• If both files contain the same contents, display Success
+• Otherwise display Failure
 
-
-
-
-
-
-
-
-
-
-
-
+110.Frequency of a String in File
+Problem Statement:
+Write a program which accepts a file name and one string from the user and returns the frequency (count of
+occurrences) of that string in the file.
 
 
 
