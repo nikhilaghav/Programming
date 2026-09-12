@@ -861,29 +861,152 @@ Problem Statement:
 Write a program which accepts a file name and one string from the user and returns the frequency (count of
 occurrences) of that string in the file.
 
-111.
+111.Write a Python program that prints:
+
+Jay Ganesh...
+
+every two seconds.
 
 
-112.
+112.Write a Python program that displays the current date and time
 
-113.
+after every one minute.
 
-114.
+Use the datetime module.
 
-115.
+Expected output:
 
-116.
+Current Date and Time: 25-07-2026 04:30:00 PM
 
-117.
+113.Write a program that schedules a function to print:
+Coding Kar..!
+every 30 minutes.
 
-118.
+114.Create a task that executes every day at 9:00 AM and prints:
+Namskar...
 
-119.
+115.Schedule a task that executes every five minutes.
 
-120.
+The task should write the current date and time into a file named:
 
-121.
+Marvellous.txt
 
-122
+New entries should be appended without removing previous entries.
 
-123.
+Example file contents:
+
+Task executed at: 25-07-2026 04:30:00 PM
+
+Task executed at: 25-07-2026 04:35:00 PM
+
+116.Write a script that schedules the following tasks:
+
+• Print Lunch Time! every day at 1:00 PM.
+
+• Print Wrap up work every day at 6:00 PM.
+
+Both tasks should be handled by separate functions.
+
+117-Write a Python program that performs a file backup every hour.
+
+The program should:
+
+1. Accept the source file path.
+
+2. Accept the destination directory path.
+
+3. Copy the source file to the destination directory.
+
+4. Add the current date and time to the backup filename.
+
+5. Write the backup operation details into:
+
+backup_log.txt
+
+Example backup filename:
+
+Data_25_07_2026_16_30_00.txt
+
+Example log entry:
+
+Backup completed successfully at 25-07-2026 04:30:00 PM
+
+Use the shutil module for file copying.
+
+118.Write a program that accepts:
+
+• A message from the user
+
+• A time interval in seconds
+
+Schedule the program to display the message repeatedly after the specified interval.
+
+119.Create a function named:
+
+DisplayMessage(message)
+
+Schedule the function using:
+
+schedule.every(5).seconds.do(DisplayMessage, message)
+
+The message should be accepted from the user.
+
+120.Write a program that scans a specified directory every minute.
+
+The task should display:
+
+• Directory name
+
+• Number of files
+
+• Number of subdirectories
+
+• Date and time of scanning
+
+Use the os module.
+
+121.Write a program that creates a new log file after every ten minutes.
+
+The filename should contain the current date and time.
+
+Example:
+
+MarvellousLog_25_07_2026_16_30_00.txt
+
+The file should contain:
+
+Log file created successfully.
+
+Creation Time: 25-07-2026 04:30:00 PM
+
+122-:Write a program that accepts a directory name from the user and
+
+counts the number of files inside it every five minutes.
+
+Write the result into:
+
+DirectoryCountLog.txt
+
+Each entry should contain:
+
+• Directory path
+
+• Number of files
+
+• Date and time
+
+123.Write a program that schedules the following messages:
+
+• Monday at 9:00 AM: Start your weekly goals
+
+• Wednesday at 5:00 PM: Review your weekly progress
+
+• Friday at 6:00 PM: Weekly work completed
+
+Use:
+
+schedule.every().monday.at(...)
+
+schedule.every().wednesday.at(...)
+
+schedule.every().friday.at(...)
