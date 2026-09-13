@@ -1010,3 +1010,120 @@ schedule.every().monday.at(...)
 schedule.every().wednesday.at(...)
 
 schedule.every().friday.at(...)
+
+124. Write a program that creates a new text file every minute.
+
+         The filename should contain the current timestamp.
+
+         Example:
+
+         File_25_07_2026_16_30_00.txt
+
+         Write the following information into the file:
+
+         • Filename
+
+         • Creation date
+
+         • Creation time
+
+125.     Write a Python program that monitors the size of a specified file
+
+         every 30 seconds.
+
+         Write the following details into:
+
+         FileSizeLog.txt
+
+         • File path
+
+         • File size in bytes
+
+         • Date and time
+
+         Handle the situation where the file does not exist.
+         
+126.     Write a program that reads and displays the contents of a specified
+ 
+         text file every minute.
+    
+         Handle the following conditions:
+         
+         • File does not exist
+         
+         • File is empty
+         
+         • Permission is denied
+         
+         • File cannot be opened
+
+127.     Write a program that copies all .txt files from one directory to
+         another every ten minutes.
+
+         The program should:
+
+         • Accept source and destination directories
+
+         • Validate both directories
+
+         • Copy only .txt files
+
+         • Maintain a log of copied files
+
+         • Avoid terminating if one file cannot be copied
+
+128.      Write a program that deletes all empty files from a specified
+
+         directory every hour.
+
+         The program should:
+
+         • Scan the directory recursively
+
+         • Detect files whose size is zero bytes
+
+         • Delete the empty files
+
+         • Store deleted file paths in a log file
+
+         • Handle permission errors
+
+         Test the program only on a sample directory.
+         
+         
+         
+         
+         
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
