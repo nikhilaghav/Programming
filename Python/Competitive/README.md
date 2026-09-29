@@ -1104,22 +1104,172 @@ schedule.every().friday.at(...)
          file in that directory which contains information of running processes as its name, PID,
          Username. After creating log file send that log file to the specified mail.
 
+133.     Write a Python program to simulate a single artificial neuron.
+
+         Input:
+
+         x1 = 2
+
+         x2 = 3
+
+         w1 = 0.4
+
+         w2 = 0.6
+
+         bias = 0.5
+
+         Tasks:
+
+         1. Calculate weighted sum.
+
+         2. Apply sigmoid activation function.
+
+         3. Display final output.
+
+         4. Explain whether output is close to 0 or 1.
+
+134.    Write a Python program to demonstrate different activation functions.
+
+        Functions to implement:
+
+         1 . Sigmoid
+
+         2. ReLU
+
+         3. Tanh
+
+         Tasks:
+
+         1. Accept input values from -10 to 10.
+
+         2. Plot all activation functions using Matplotlib.
+
+         3. Explain the use of each activation function.
 
 
+135.    .Write a Python program to calculate loss manually.
 
+           Tasks:
 
+         1. Implement Mean Squared Error.
 
+         2. Implement Binary Cross Entropy.
 
+         3. Take actual and predicted values.
 
+         4. Display the calculated loss.
 
+         5. Explain which loss function is used for regression and classification.
 
+136.    Write a Python program to show how weights are updated in ANN.
+         Tasks:
+         
+         1. Take input, weight, bias, target output, and learning rate.
+         
+         2. Calculate prediction.
+         
+         3. Calculate error.
+         
+         4. Update weight using gradient descent logic.
+         
+         5. Display old weight and updated weight.
 
+137.     Create a neural network model to predict whether a customer will leave a service.
+         Features:
 
+         1. Age
+     
+         2. Monthly charges
+         
+         3. Tenure
+         
+         4. Number of complaints
+         
+         5. Customer support calls
+        
+         Output:
+         
+         0 = Customer will stay
+         1 = Customer will leave
 
+    
+         Tasks:
+    
+         1. Load or create dataset.
+         
+         2. Clean the dataset.
+         
+         3. Apply StandardScaler.
+         
+         4. Train FNN model.
+         
+         5. Evaluate accuracy.
+         
+         Feature Meaning
+         [Age, Monthly Charges, Tenure, Complaints, Support Calls]
+         Output Meaning
+         
+        
+         Test Input
 
+         new_customer = [[46, 1450, 5, 6, 9]]
+    
+         Expected Output
+         
+         Prediction: Customer may leave    
 
+138.    Create a neural network model to predict loan approval.
+         Features:
+         
+         1. Applicant income
+         
+         2. Credit score
+         
+         3. Loan amount
+         
+         4. Existing EMI
+         
+         5. Employment status
+         
+         Output:
+         0 = Loan rejected
+         1 = Loan approved
+         Tasks:
+         
+         1. Preprocess categorical values.
+         
+         2. Apply scaling.
+         
+         3. Train FNN model.
+         
+         4. Evaluate model.
+         
+         5. Predict approval for new applicant.
+         
+         Dataset
+         
+         Feature Meaning
 
+        [Income, Credit Score, Loan Amount, Existing EMI, Employment Status]
 
+         Employment Status:
+
+         0 = Not Stable
+    
+         1 = Stable
+         
+         Test Input
+         
+         new_applicant = [[55000, 720, 400000, 10000, 1]]
+         
+         Expected Output
+         
+         Prediction: Loan Approved
+         
+         
+         
+         
+         
 
 
 
