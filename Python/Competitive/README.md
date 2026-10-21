@@ -1370,14 +1370,65 @@ schedule.every().friday.at(...)
          
          Expected Flatten Output
          
-         flatten_output = [6, 4, 8, 6]             
-                                    
-                                    
-                                    
-                  
+         flatten_output = [6, 4, 8, 6]
+
+
+######################################################################################
+#  Streamlit and Tkinter                                 
+#                                    
+######################################################################################                                   
+
+142: Addition of Two Numbers
+     
+     Develop a Streamlit application that accepts two numbers from the user using input fields. Provide an Add
+     
+     button to calculate and display the addition of the entered numbers.
+
+143: Even or Odd Number
+     
+     Develop a Streamlit application that accepts an integer from the user. Provide a Check button to determine
+     
+     whether the entered number is even or odd and display the result.
+
+144: Simple Interest Calculator
+     
+     Develop a Streamlit application that accepts Principal Amount, Rate of Interest and Time Period. Provide a
+     Calculate button to calculate and display the Simple Interest.
+145: Student Result Calculator
+    
+     Develop a Streamlit application that accepts a student's name and marks in three subjects. Calculate total marks,
+     
+     percentage and display whether the student has passed or failed. Consider 40 marks out of 100 as the minimum
+     
+     passing marks in each subject.
+
+146: Celsius to Fahrenheit Converter
+
+     Develop a Streamlit application that accepts temperature in Celsius. Provide a Convert button to convert the
+     
+     entered temperature into Fahrenheit and display the result.    
          
-         
-         
+
+147: Addition of Two Numbers
+Develop a Tkinter application that accepts two numbers using Entry widgets. Provide an Add button to calculate
+and display their addition using a Label widget.
+
+148: Find the Largest Number
+Develop a Tkinter application that accepts three numbers from the user. Provide a Find Maximum button to
+determine and display the largest number.
+
+149: Area of Circle
+Develop a Tkinter application that accepts the radius of a circle. Provide a Calculate Area button to calculate
+and display the area of the circle.
+
+150: Voting Eligibility Checker
+Develop a Tkinter application that accepts a person's name and age. Provide a Check Eligibility button to
+determine whether the person is eligible to vote based on the minimum age of 18 years.
+
+151: Basic Login Form
+Develop a Tkinter application that accepts a username and password using Entry widgets. Provide a Login
+button to validate the entered credentials against predefined values and display an appropriate success or failure
+message.       
          
          
          
